@@ -19,7 +19,7 @@ Short & clear description of the bug
 ### What is currently happening
 A clear and concise description of what is currently happening.
 
-~If applicable, add screenshots to help explain your problem.~
+_If applicable, add **screenshots** to help explain your problem._
 
 ### Steps to reproduce
 1. Logged in as a ‘…’
