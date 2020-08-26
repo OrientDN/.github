@@ -1,7 +1,7 @@
-Resolves #github-issue-number
+Fixes for #issue-1 #issue-2
 
 #### This PR contains these fixes / features:
-- Fix A
+- Fix for A
 - Feature B
 
 ---
