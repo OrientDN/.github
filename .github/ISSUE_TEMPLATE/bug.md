@@ -9,6 +9,8 @@ assignees: ''
 
 ##  🐛 Bug
 
+Version: [version]
+
 Short & clear description of the bug
 
 ### Expected behavior
